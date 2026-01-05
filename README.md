@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am passionate about programming, web development, and data science. I have hands-on experience with Python (including Pandas, NumPy, Matplotlib, TensorFlow, Keras, NLP) and web technologies like HTML, CSS, JavaScript, as well as Streamlit for building interactive data apps. I enjoy creating data-driven projects, machine learning models, and web applications that provide real-world solutions. My goal is to combine modern web development and AI tools to develop efficient, innovative, and user-friendly applications.
+I am passionate about programming, web development, and data science. I have hands-on experience with Python (including Pandas, NumPy, Matplotlib, TensorFlow, Keras, NLP) and web technologies like HTML, CSS, JavaScript, as well as Streamlit for building interactive data apps. I enjoy creating data-driven projects, machine learning models, and web applications that provide real-world solutions. My goal is to combine modern web development and AI tools to develop efficient and user-friendly applications.
 
 
 ## 🌐 Socials:
